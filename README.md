@@ -7,7 +7,9 @@ It supports wake-word activation, voice confirmation, browser automation, animat
 This project demonstrates real-world desktop application development, speech recognition, automation, UI animation, and software packaging.
 
 ---
+## 🖼️ Preview
 
+![Donna UI](assets/donna_ui.png)
 ## 🎯 Features
 
 - Wake word activation: `"donna"`
