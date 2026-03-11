@@ -8,7 +8,7 @@ This project demonstrates real-world desktop application development, speech rec
 
 ---
 ## 🖼️ Preview
-![Donna UI](./assets/donna-ui.png)
+![Donna UI](./assets/donna_ui.png)
 
 ---
 ## 🎯 Features
