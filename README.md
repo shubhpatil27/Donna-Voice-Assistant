@@ -8,7 +8,7 @@ This project demonstrates real-world desktop application development, speech rec
 
 ---
 ## 🖼️ Preview
-![Donna UI](https://github.com/shubhpatil27/Donna-Voice-Assistant/blob/main/assets/donna_ui.png)
+![Donna UI](https://github.com/shubhpatil27/Donna-Voice-Assistant/main/assets/donna_ui.png)
 
 ---
 ## 🎯 Features
